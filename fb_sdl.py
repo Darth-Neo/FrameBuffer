@@ -10,6 +10,8 @@ logger = setupLogging(__name__)
 logger.setLevel(DEBUG)
 
 
+
+
 class PyDisplay:
     screen = None
 
