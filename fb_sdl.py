@@ -10,7 +10,7 @@ logger = setupLogging(__name__)
 logger.setLevel(DEBUG)
 
 
-
+# morrisspid.james@hotmail.com
 
 class PyDisplay:
     screen = None
